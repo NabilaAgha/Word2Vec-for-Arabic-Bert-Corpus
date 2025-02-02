@@ -20,4 +20,5 @@ The dataset used for training is the **[Arabic BERT Corpus](https://www.kaggle.c
 
 ## 📥 **Getting Started**  
 Clone this repository and install the required dependencies to start training your own **Word2Vec model** on Arabic text!  
+![dataset-cover](https://github.com/user-attachments/assets/2ca3c459-ebb7-4980-bbec-29ce0190f0fd)
 
